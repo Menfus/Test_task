@@ -16,70 +16,19 @@
 
 ## 💻 Технологический стек
 
-<div align="center">
-  <table>
-    <tr>
-      <!-- Первая строка -->
-      <td align="center" width="110">
-        <a href="https://www.jetbrains.com/idea/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" height="48" alt="IntelliJ IDEA" />
-        </a>
-        <br>IDEA
-      </td>
-      <td align="center" width="110">
-        <a href="https://www.java.com" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-        </a>
-        <br>Java
-      </td>
-      <td align="center" width="110">
-        <a href="https://junit.org/junit5/" target="_blank">
-          <img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="48" height="48" alt="JUnit 5" />
-        </a>
-        <br>JUnit 5
-      </td>
-      <td align="center" width="110">
-        <a href="https://gradle.org/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="48" height="48" alt="Gradle" />
-        </a>
-        <br>Gradle
-      </td>
-      <td align="center" width="110">
-        <a href="https://selenide.org/" target="_blank">
-          <img src="https://selenide.org/images/selenide-logo.png" width="48" height="48" alt="Selenide" />
-        </a>
-        <br>Selenide
-      </td>
-    </tr>
-    <tr>
-      <!-- Вторая строка -->
-      <td align="center" width="110">
-        <a href="https://aerokube.com/selenoid/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Selenoid" />
-        </a>
-        <br>Selenoid
-      </td>
-      <td align="center" width="110">
-        <a href="https://docs.qameta.io/allure/" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="48" height="48" alt="Allure" />
-        </a>
-        <br>Allure
-      </td>
-      <td align="center" width="110">
-        <a href="https://www.jenkins.io/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
-        </a>
-        <br>Jenkins
-      </td>
-      <td align="center" width="110">
-        <a href="https://github.com/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-        </a>
-        <br>GitHub
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">  
+<a href="https://www.jetbrains.com/idea/"><img src="images/logo/Intelij_IDEA.svg" width="50" height="50"  alt="IDEA"/></a>  
+<a href="https://www.java.com/"><img src="images/logo/Java.svg" width="50" height="50"  alt="Java"/></a>  
+<a href="https://github.com/"><img src="images/logo/Github.svg" width="50" height="50"  alt="Github"/></a>  
+<a href="https://junit.org/junit5/"><img src="images/logo/JUnit5.svg" width="50" height="50"  alt="JUnit 5"/></a>  
+<a href="https://gradle.org/"><img src="images/logo/Gradle.svg" width="50" height="50"  alt="Gradle"/></a>  
+<a href="https://selenide.org/"><img src="images/logo/Selenide.svg" width="50" height="50"  alt="Selenide"/></a>  
+<a href="https://aerokube.com/selenoid/"><img src="images/logo/Selenoid.svg" width="50" height="50"  alt="Selenoid"/></a>  
+<a href="ht[images](images)tps://github.com/allure-framework/allure2"><img src="images/logo/Allure.svg" width="50" height="50"  alt="Allure"/></a> 
+<a href="https://qameta.io/"><img src="images/logo/Allure2.svg" width="50" height="50"  alt="Allure TestOps"/></a>   
+<a href="https://www.jenkins.io/"><img src="images/logo/Jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>  
+<a href="https://www.atlassian.com/ru/software/jira/"><img src="images/logo/Jira.svg" width="50" height="50"  alt="Jira"/></a>  
+</p>
 
 - Тесты написаны на **Java** с использованием фреймворка **Selenide** в **IntelliJ IDEA**  
 - Сборка проекта осуществляется через **Gradle**  
