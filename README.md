@@ -47,7 +47,7 @@
 
 ---
 
-## [<img src="media/logo/Jenkins.svg" width="40" height="40" alt="Jenkins"> Запуск тестов в Jenkins](https://jenkins.autotests.cloud/job/035-Azkeww-hw14/)
+## [<img src="Media/logo/Jenkins.svg" width="40" height="40" alt="Jenkins"> Запуск тестов в Jenkins](https://jenkins.autotests.cloud/job/035-Azkeww-hw14/)
 
 ### Локальный запуск
 ```bash
@@ -76,7 +76,7 @@ clean simple_test
 - Логи браузерной консоли
 - Видео прогона автотестов
 
-<img src="media/screens/allure_steps.png"  width="1920" height="" width="800" alt="Allure">
+<img src="Media/screens/allure_steps.png"  width="1920" height="" width="800" alt="Allure">
 
 
 ## <img src="Media/logo/logo-telegram.png" width="40" height="40" alt="Telegram"> Уведомления в Telegram
