@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://a2seven.ru/" target="_blank">
-    <img src="media/logo/logo_A27.svg" width="200" alt="LoyLabs Logo">
+    <img src="Media/logo/logo_A27.svg" width="200" alt="LoyLabs Logo">
   </a>
 </p>
 
